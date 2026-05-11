@@ -1,0 +1,11 @@
+[DCL]
+DCL:OPKC:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr> 
+DCL:OPIS:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr> 
+DCL:OPLA:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr> 
+DCL:OPPS:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB <cfl> SQUAWK <assr> 
+
+[STATIONS]
+LOGIN:OPKC:Karachi:KHI
+LOGIN:OPLA:Lahore:LHE
+LOGIN:OPIS:Islamabad:ISB
+LOGIN:OPPS:Peshawar:PEW

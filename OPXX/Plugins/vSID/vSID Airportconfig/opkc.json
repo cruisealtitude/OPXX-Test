@@ -14,38 +14,38 @@
         "F": {
           "1": {
             "rwy": "25L",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
 			},
           "2": {
             "rwy": "25R",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           }
         },
         "G": {
           "1": {
             "rwy": "25L",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           },
           "2": {
             "rwy": "25R",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           }
 		    },  
 		    "H": {
           "1": {
             "rwy": "07R",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           }
 		    },
 		    "L": {
           "1": {
 		   "rwy": "07L",
-            "initial": 7000,
+            "initial": 16000,
             "prio": 1
           }
         }

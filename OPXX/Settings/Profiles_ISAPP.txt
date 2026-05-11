@@ -1,14 +1,14 @@
 PROFILE
 PROFILE:<Initials>_OBS:200:0
 ATIS2:Pakistan vACC Observer
-ATIS3:
-ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> https://vatsimpakistan.com/controllers/feedback
+ATIS3:For feedbacks - vatsim.pk/feedback
+ATIS4:Join Pakistan vACC | Visit vatsim.pk
 PROFILE:OPIS_DEP:150:5
-ATIS2:"Islamabad Departures" 
-ATIS3:Covering Departures in the Islamabad TMA up to FL175 | Report callsign, aircraft, and position on initial contact
-ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> https://vatsimpakistan.com/controllers/feedback
+ATIS2:"Islamabad Departures" DCL Logon [OPIS]
+ATIS3:For feedbacks - vatsim.pk/feedback
+ATIS4:Join Pakistan vACC | Visit vatsim.pk
 PROFILE:OPIS_APP:150:5
-ATIS2:"Islamabad Approach" 
-ATIS3:Covering the Islamabad TMA up to FL175 | Report callsign, aircraft, and position on initial contact
-ATIS4:Interested in joining Pakistan vACC Discord? Join through community.vatsim.net | We love feedback --> https://vatsimpakistan.com/controllers/feedback
+ATIS2:"Islamabad Approach" DCL Logon [OPIS]
+ATIS3:For feedbacks - vatsim.pk/feedback
+ATIS4:Join Pakistan vACC | Visit vatsim.pk
 END

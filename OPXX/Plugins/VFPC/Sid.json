@@ -13,7 +13,8 @@
             "OPSD",
             "OPFA",
             "OPST",
-            "ZBAA"
+            "ZBAA",
+			"OPPS"
           ],
           "airways": [
             "J112",
@@ -25,8 +26,7 @@
         {
           "direction": "EVEN",
           "destinations": [
-            "OPQT",
-            "OPPS"
+            "OPQT"
           ],
           "airways": [
             "J112",
@@ -88,7 +88,8 @@
           "destinations": [
             "ZGNN",
             "VCBI",
-            "VTBS"
+            "VTBS",
+			"VABB"
           ],
           "airways": [
             "A791"
@@ -108,13 +109,15 @@
             "WMKK"
           ],
           "airways": [
-            "Z10"
+            "Z10",
+			"N519"
           ]
         },
         {
           "direction": "ODD",
           "airways": [
-            "Z10"
+            "Z10",
+			"N519"
           ]
         }
       ]
@@ -228,7 +231,8 @@
         {
           "direction": "EVEN",
           "destinations": [
-            "OPKC"
+            "OPKC",
+			"EGKK"
           ],
           "airways": [
             "G214"
@@ -264,7 +268,9 @@
           "destinations": [
             "UCFM",
             "UZTT",
-            "CYYZ"
+            "CYYZ",
+			"OPSD",
+			"OPIS"
           ],
           "airways": [
             "T400",

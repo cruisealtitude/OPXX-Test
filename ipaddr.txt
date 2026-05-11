@@ -1,2 +1,5 @@
-fsd.connect.vatsim.net AUTOMATIC
+46.101.112.122 AUTOMATIC
 sweatbox.vatsim.net SweatBox
+sweatbox-2.vatsim.net SweatBox-2
+localhost localhost
+loopback loopback

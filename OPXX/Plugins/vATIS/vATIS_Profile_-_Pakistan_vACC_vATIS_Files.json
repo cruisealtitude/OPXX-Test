@@ -25,7 +25,6 @@
           "id": "ddeb4073-e21a-4d4d-8c82-3207da143f22",
           "name": "RWY 36R ILS",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP ILS APP RWY 36R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -35,7 +34,6 @@
           "id": "6f509a44-dea9-4a89-a435-94fe41db9d0f",
           "name": "RWY 36R RNP",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]. [ADVISE_ON_INIT_CONTACT].",
           "externalGenerator": {
             "enabled": false
@@ -45,7 +43,6 @@
           "id": "a8d292bc-8b26-4b2f-8301-ad177d2fd4db",
           "name": "RWY 36R VOR",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 36R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -55,7 +52,6 @@
           "id": "990ac8be-e340-4747-b516-07486d0b579a",
           "name": "RWY 36L ILS",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP ILS APP RWY 36L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -65,7 +61,6 @@
           "id": "5fff95e8-a466-49bc-8cae-f6673a132c3f",
           "name": "RWY 36L RNP",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 36L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -75,7 +70,6 @@
           "id": "5c3d6dd2-c519-4e74-92b9-7ec8760cafcd",
           "name": "RWY 36L VOR",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 36L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -85,7 +79,6 @@
           "id": "521b2ec8-a755-42f5-b682-a9dd133d27f0",
           "name": "RWY 36L NDB",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]. [ADVISE_ON_INIT_CONTACT].",
           "externalGenerator": {
             "enabled": false
@@ -95,7 +88,6 @@
           "id": "ecab328f-65ae-41ab-9092-3cb7a2311b52",
           "name": "RWY 18R RNP",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]. [ADVISE_ON_INIT_CONTACT].",
           "externalGenerator": {
             "enabled": false
@@ -105,7 +97,6 @@
           "id": "fb53de0d-7c0b-4cd3-8274-fcf9168c72f2",
           "name": "RWY 18R VOR",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 18R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -115,7 +106,6 @@
           "id": "2dbfb9e4-4067-4b18-936f-bb59be7ab023",
           "name": "RWY 18L RNP",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 18L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -125,7 +115,6 @@
           "id": "ac80f9ae-c4ae-4e62-a126-d9a2cf6571e3",
           "name": "RWY 18L VOR",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 18L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -135,7 +124,6 @@
           "id": "29930e68-828f-467d-af83-a4af0f95ffbb",
           "name": "RWY 18L NDB",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LVL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 36R/18L CLOSED DUE TO CONSTRUCTION.",
           "template": "THIS IS OPLA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP NDB APP RWY 18L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -383,7 +371,6 @@
           "id": "c0dd97d1-f2f9-44a4-8855-87e2c3cb3f33",
           "name": "RWY 28L ILS",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP ILS APP RWY 28L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -393,7 +380,6 @@
           "id": "42aa29cd-0455-4afa-a7b7-b1be3963beae",
           "name": "RWY 28L RNP",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 28L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -402,17 +388,16 @@
         {
           "id": "32f3ac4a-585b-41e2-bf56-098479834f17",
           "name": "RWY 28L VOR",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 28L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
-          }
+          },
+          "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT."
         },
         {
           "id": "9c5bb6b4-ee17-42a3-bf1e-209ae05b6b71",
           "name": "RWY 28R ILS",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP ILS APP RWY 28R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -422,7 +407,6 @@
           "id": "bafd4488-21f8-4f2c-bfc6-995fbc2c70ac",
           "name": "RWY 28R RNP",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 28R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -432,7 +416,6 @@
           "id": "1b50727b-71ae-4858-ae69-54dffda82e42",
           "name": "RWY 28R VOR",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 28R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -442,7 +425,6 @@
           "id": "5aeb2ba0-8d82-4b16-9dc5-554a8839ac65",
           "name": "RWY 10L RNP",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 10L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -452,7 +434,6 @@
           "id": "79ed935c-55bc-4521-84d5-198c46a437fb",
           "name": "RWY 10L VOR",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 10L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -462,7 +443,6 @@
           "id": "3d466f8d-ce3c-4e70-8c72-0e7766dc0738",
           "name": "RWY 10R ILS",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP ILS APP RWY 10R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -472,7 +452,6 @@
           "id": "6f52a5b7-2e2c-44c1-ab06-e93945422573",
           "name": "RWY 10R RNP",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 10R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -482,7 +461,6 @@
           "id": "3a8de1ae-b300-430e-8ab8-82661f264542",
           "name": "RWY 10R VOR",
           "airportConditions": "TRANSITION ALT 12000 FT. TRANSITION LEVEL 140. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RUNWAY 10L/28R CLOSED.",
           "template": "THIS IS OPIS ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 10R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -709,7 +687,7 @@
     },
     {
       "id": "b89d8e49-628a-4da7-a0aa-c66cd43cb43b",
-      "name": "Faislabad International Airport",
+      "name": "Faisalabad International Airport",
       "identifier": "OPFA",
       "atisType": "Combined",
       "codeRange": {
@@ -739,7 +717,6 @@
           "id": "7cbb9755-451c-497a-91b0-cdc54b9e1692",
           "name": "RWY 21L NDB",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LEVEL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 03R/21L CLSD",
           "template": "THIS IS OPFA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP NDB APP RWY 21L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -749,7 +726,6 @@
           "id": "0b1a231c-1cea-4d44-80e9-1f4d192f28ce",
           "name": "RWY 21R RNP",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LEVEL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 03R/21L CLSD",
           "template": "THIS IS OPFA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 21R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -759,7 +735,6 @@
           "id": "0fa24766-716b-42a9-9225-a9d95ad83033",
           "name": "RWY 21R NDB",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LEVEL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 03R/21L CLSD",
           "template": "THIS IS OPFA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP NDB APP RWY 21R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -769,7 +744,6 @@
           "id": "e2cfeac5-a119-4b30-8764-f9c463133ab7",
           "name": "RWY 03L ILS",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LEVEL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 03R/21L CLSD",
           "template": "THIS IS OPFA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP ILS APP RWY 03L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -779,7 +753,6 @@
           "id": "af5b5ecf-e4e6-4684-95f4-46b103b66bbf",
           "name": "RWY 03L RNP",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LEVEL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 03R/21L CLSD",
           "template": "THIS IS OPFA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 03L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -789,7 +762,6 @@
           "id": "92e8c0c2-f366-49f4-b583-03dfd83c4ed0",
           "name": "RWY 03L NDB",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LEVEL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 03R/21L CLSD",
           "template": "THIS IS OPFA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP NDB APP RWY 03L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -799,7 +771,6 @@
           "id": "4c035359-c4c7-4345-84c7-d57be13e6dc9",
           "name": "RWY 03R RNP",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LEVEL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 03R/21L CLSD",
           "template": "THIS IS OPFA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 03R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -809,7 +780,6 @@
           "id": "13e4a856-ef32-486a-8cb7-f33454f7a7e1",
           "name": "RWY 03R NDB",
           "airportConditions": "TRANSITION ALT 4000 FT. TRANSITION LEVEL 060. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 03R/21L CLSD",
           "template": "THIS IS OPFA ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP NDB APP RWY 03R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -1659,7 +1629,6 @@
           "id": "90a18f87-4ce5-4215-9d45-3a94a654e2a4",
           "name": "RWY 25L ILS",
           "airportConditions": "TRANSITION ALT 3000 FT. TRANSITION LEVEL 050. ADVS ACFT TYPE ON FIRST CONTACT.",
-          "notams": "RWY 25R/07L CLOSED",
           "template": "THIS IS OPKC ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP ILS APP RWY 25L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
@@ -1671,7 +1640,8 @@
           "template": "THIS IS OPKC ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 25L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
-          }
+          },
+          "airportConditions": "TRANSITION ALT 3000 FT. TRANSITION LEVEL 050. ADVS ACFT TYPE ON FIRST CONTACT."
         },
         {
           "id": "aa32240e-074e-440b-8514-d34ba301a919",
@@ -1679,7 +1649,8 @@
           "template": "THIS IS OPKC ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 25L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
-          }
+          },
+          "airportConditions": "TRANSITION ALT 3000 FT. TRANSITION LEVEL 050. ADVS ACFT TYPE ON FIRST CONTACT."
         },
         {
           "id": "8aa1217e-0105-4dd5-acb9-3e3d7cf227c2",
@@ -1687,7 +1658,8 @@
           "template": "THIS IS OPKC ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP ILS APP RWY 25R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
-          }
+          },
+          "airportConditions": "TRANSITION ALT 3000 FT. TRANSITION LEVEL 050. ADVS ACFT TYPE ON FIRST CONTACT."
         },
         {
           "id": "83b3f27b-548e-442a-8c0d-b987ffb07a25",
@@ -1695,7 +1667,8 @@
           "template": "THIS IS OPKC ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 25R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
-          }
+          },
+          "airportConditions": "TRANSITION ALT 3000 FT. TRANSITION LEVEL 050. ADVS ACFT TYPE ON FIRST CONTACT."
         },
         {
           "id": "6e71db7e-9a1d-48b0-8a4b-200de498bd5d",
@@ -1703,7 +1676,8 @@
           "template": "THIS IS OPKC ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP VOR APP RWY 25R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
-          }
+          },
+          "airportConditions": "TRANSITION ALT 3000 FT. TRANSITION LEVEL 050. ADVS ACFT TYPE ON FIRST CONTACT."
         },
         {
           "id": "c23f1153-a417-4881-ae48-0f2549842437",
@@ -1711,7 +1685,8 @@
           "template": "THIS IS OPKC ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 07R. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
-          }
+          },
+          "airportConditions": "TRANSITION ALT 3000 FT. TRANSITION LEVEL 050. ADVS ACFT TYPE ON FIRST CONTACT."
         },
         {
           "id": "f8d61f1c-58ff-41ee-842d-ba783e9c6a22",
@@ -1719,7 +1694,8 @@
           "template": "THIS IS OPKC ARPT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. EXP RNP APP RWY 07L. [RVR]. [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false
-          }
+          },
+          "airportConditions": "TRANSITION ALT 3000 FT. TRANSITION LEVEL 050. ADVS ACFT TYPE ON FIRST CONTACT."
         }
       ],
       "contractions": [],

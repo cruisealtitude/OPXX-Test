@@ -1,4 +1,4 @@
-DisplayTypeName:SMR radar display
+DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
@@ -38,33 +38,10 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:70.00000
-TAGFAMILY:TopSky_Pakistan_TWR
+TAGFAMILY:Matias (built in)
 WINDOWAREA:26.209454:68.367112:26.229268:68.410225
+PLUGIN:Ground Radar plugin:AirportElevation:95
+PLUGIN:Ground Radar plugin:AirportRadius:1.7
+PLUGIN:Ground Radar plugin:GroundMode:OPNH
+PLUGIN:Ground Radar plugin:TowerMode:OPNH
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:vSMR:ActiveProfile:Pakistan vACC
-PLUGIN:vSMR:Afterglow:1
-PLUGIN:vSMR:Airport:OPNH
-PLUGIN:vSMR:AppTrailsDots:4
-PLUGIN:vSMR:FontSize:1
-PLUGIN:vSMR:GndTrailsDots:4
-PLUGIN:vSMR:PredictedLine:0
-PLUGIN:vSMR:SRW1BottomRightX:1918
-PLUGIN:vSMR:SRW1BottomRightY:318
-PLUGIN:vSMR:SRW1Display:1
-PLUGIN:vSMR:SRW1Filter:5500
-PLUGIN:vSMR:SRW1OffsetX:-2
-PLUGIN:vSMR:SRW1OffsetY:-11
-PLUGIN:vSMR:SRW1Rotation:0
-PLUGIN:vSMR:SRW1Scale:15
-PLUGIN:vSMR:SRW1TopLeftX:1617
-PLUGIN:vSMR:SRW1TopLeftY:60
-PLUGIN:vSMR:SRW2BottomRightX:600
-PLUGIN:vSMR:SRW2BottomRightY:500
-PLUGIN:vSMR:SRW2Display:0
-PLUGIN:vSMR:SRW2Filter:5500
-PLUGIN:vSMR:SRW2OffsetX:0
-PLUGIN:vSMR:SRW2OffsetY:0
-PLUGIN:vSMR:SRW2Rotation:0
-PLUGIN:vSMR:SRW2Scale:15
-PLUGIN:vSMR:SRW2TopLeftX:200
-PLUGIN:vSMR:SRW2TopLeftY:200

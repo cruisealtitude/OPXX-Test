@@ -16,17 +16,13 @@ Track_HistoryDots_GND=3
 
 Color_Arrival=253,236,166
 Color_Departure=166,253,190
-Color_Background=110,110,110
+Color_APP_Background=110,110,110
 Color_RawVideo=255,255,0
 Color_Unknown=233,234,235
-Color_RunwayExtension=174,174,174
 Color_SelectedLabelFill_App=0,0,0
 Color_SelectedLabelFill_Gnd=0,0,0
-Color_RunwayExtension=72,73,75
-Window_APP_Scale=18
-Window_APP_AltFilter=6000
-Window_APP_Extensions=10
-Window_APP=1,1
+Window_APP_DefPos=4000,50
+Window_APP_DefSize=850,300
 
 Maps_FontSize=10
 GroundLabel_Font=EuroScope
@@ -79,9 +75,10 @@ System_State_OnFreq=FREQ
 System_State_DeIce=DEICE
 System_State_StartUp=S/U
 System_State_Push=P/S
-System_State_Taxi=T/X
+System_State_Taxi_Out=T/X
 System_State_LineUp=L/U
 System_State_Depa=T/O
+System_State_Taxi_In=T/X
 
 System_RMCA_RWY_Closure=50
 System_RMCA_RWY_Closure_Info=20
@@ -116,7 +113,8 @@ List_Departure_STAND=1
 List_Departure_EOBT=1
 List_Departure_Items=30
 
-Window_APW_DefPos=1350,45
+Window_APW_DefPos=3000,355
+Window_APW_DefSize=370,215	
 
 [OPKC]
 Airport_Elevation=100
@@ -135,18 +133,19 @@ AppPath=OPKC:25L:N024.54.31.790:E067.10.30.200:254:L:8:3.0
 AppPath=OPKC:07L:N024.54.16.900:E067.08.51.020:74:R:8:3.0
 AppPath=OPKC:25R:N024.54.44.690:E067.10.40.840:254:L:8:3.0
 
-
-Window_APP_Scale=15
-Window_APP_AltFilter=4000
-Window_APP_Rotation=106
+Window_APP=1,1
+Window_APP_Extensions=1,10
+Window_APP_Scale=1,30
+Window_APP_AltFilter=3000
+Window_APP_Rotation=0
 Window_APW=07R,2/07R
 Window_APW=25L,2/25L
 Window_APW=07L,2/07L
 Window_APW=25R,2/25R
-Window_WindRose=07R,2
-Window_WindRose=25L,2
-Window_WindRose=07L,2
-Window_WindRose=25R,2
+Window_WindRose=07R,2,1975,355
+Window_WindRose=25L,2,1975,355
+Window_WindRose=07L,2,1975,355
+Window_WindRose=25R,2,1975,355
 Airport_Dep_Transfer_Height=1000
 Airport_Dep_Transfer_Dist=2
 
